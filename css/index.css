@@ -100,9 +100,7 @@ figure{
 figure:hover{
 	background: rgba(0,0,0,0.2);
 }
-#contactMe>div{
-	padding: 1em 0;
-}
+
 .weChat img{
 	display: block;
 }
